@@ -1,2 +1,2 @@
 # rgb-game
-Very basic game involving guessing RGB colors.
+Very basic web app game involving guessing RGB colors. Designed using HTML and CSS, and the logic is built using JavaScript.
